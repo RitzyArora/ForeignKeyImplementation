@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeignKeyImplementation", "ForeignKeyImplementation\ForeignKeyImplementation.csproj", "{F998A293-ADB1-4C6A-8205-FD098DBF99CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F998A293-ADB1-4C6A-8205-FD098DBF99CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F998A293-ADB1-4C6A-8205-FD098DBF99CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F998A293-ADB1-4C6A-8205-FD098DBF99CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F998A293-ADB1-4C6A-8205-FD098DBF99CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821A4227-BE6B-4A89-A2B9-7D85EEA9A52B}
+	EndGlobalSection
+EndGlobal
